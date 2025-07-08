@@ -21,12 +21,13 @@ This template is cross-platform (Windows/Linux) and includes a working CMake set
 ---
 
 ## 📁 Project Structure
-
+```
 project-root/
-├── include/ # Header files
-├── src/ # Source files
-├── CMakeLists.txt # Build configuration
+├── include/        # Header files
+├── src/            # Source files
+├── CMakeLists.txt  # Build configuration
 └── README.md
+```
 
 
 ---
