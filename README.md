@@ -37,8 +37,8 @@ project-root/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/BenEklundCS/YourTemplateRepo.git
-cd YourTemplateRepo
+git clone https://github.com/BenEklundCS/RaylibTemplate.git
+cd RaylibTemplate
 ```
 
 ### 2. Build the Project
